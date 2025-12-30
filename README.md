@@ -4,7 +4,7 @@ I'm Arash, a passionate Computer Science student with a keen interest in AI and 
 
 - 🔭 I’m currently working on **machine learning projects**.
 - 👯 I’m looking to collaborate on **AI-driven applications** that aim to solve real-world problems.
-- 💬 Ask me about **Machine Learning, Reinforcement Learning, Large Language Models**.
+- 💬 Ask me about **Reinforcement Learning, Multi-Agent Systems, Graph Representation Learning, Reasoning in Large Language Models**.
 - 📫 How to reach me: [Email](mailto:arash.rez03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arash-rezaali-681b7324b) 
 
 Feel free to explore my repositories and connect with me if you're interested in collaborating on exciting projects!
